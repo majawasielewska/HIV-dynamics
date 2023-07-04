@@ -8,6 +8,7 @@ Before starting to study the problem of drug resistance, both a drug-sensitive w
 The course of infection was studied by observing changes in the following three parameters over time: change in the number of infected cells, change in the number of virions, change in the number of TCD4 cells. A model was introduced that depended on 5 parameters and it was observed how the course of the disease changes when the values of these parameters change.
 
 Source: https://tb.ethz.ch/education/learningmaterials/modelingcourse/level-1-modules/hiv-resistance.html
+
 Article: Within-host HIV dynamics: the emergence of drugresistance, Viktor Muller
 
 
