@@ -1,3 +1,5 @@
+#  HIV-dynamics
+
 Modeling the dynamics of HIV within a host with simple sets of differential equations that implement both wild-type and drug-resistant viruses. The project shows what factors inhibit or facilitate the emergence of drug resistance.
 
 Description of the problem:
